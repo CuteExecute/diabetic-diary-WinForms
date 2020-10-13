@@ -1,0 +1,14 @@
+E:\MyC#\MySweetControl\MySweetControl\bin\Release\MySweetControl.exe.config
+E:\MyC#\MySweetControl\MySweetControl\bin\Release\MySweetControl.exe
+E:\MyC#\MySweetControl\MySweetControl\bin\Release\MySweetControl.pdb
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.csprojAssemblyReference.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.EditPanel_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.Graphic_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.MainForm.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.Main_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.NoResult_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.Properties.Resources.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.csproj.GenerateResource.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.csproj.CoreCompileInputs.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.exe
+E:\MyC#\MySweetControl\MySweetControl\obj\Release\MySweetControl.pdb

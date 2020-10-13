@@ -1,0 +1,13 @@
+E:\MyC#\MySweetControl\MySweetControl\bin\Debug\MySweetControl.exe.config
+E:\MyC#\MySweetControl\MySweetControl\bin\Debug\MySweetControl.exe
+E:\MyC#\MySweetControl\MySweetControl\bin\Debug\MySweetControl.pdb
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.csprojAssemblyReference.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.MainForm.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.Main_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.Properties.Resources.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.csproj.GenerateResource.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.csproj.CoreCompileInputs.cache
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.exe
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.pdb
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.Graphic_UserControl.resources
+E:\MyC#\MySweetControl\MySweetControl\obj\Debug\MySweetControl.NoResult_UserControl.resources
